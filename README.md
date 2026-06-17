@@ -13,7 +13,6 @@ Lid:
 # Why I Made This
 I live in Austin. Most of my area has been under construction and development for years now. This has led to a lower air quality on average here. This place is also known for it's volatile weather patterns. It could be snowing one day and then 80 degrees the next day(throwback to 2020). This is what inspired me to make this project.
 # BOM
-
 | Materials | Quantity |
 | :--- | :--- |
 | Arduino UNO R3 | 1 |
