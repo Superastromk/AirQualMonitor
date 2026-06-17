@@ -12,3 +12,16 @@ Lid:
 <img width="1313" height="897" alt="image" src="https://github.com/user-attachments/assets/c115ac4c-fb24-40ef-adda-ea4b9a57b03a" />
 # Why I Made This
 I live in Austin. Most of my area has been under construction and development for years now. This has led to a lower air quality on average here. This place is also known for it's volatile weather patterns. It could be snowing one day and then 80 degrees the next day(throwback to 2020). This is what inspired me to make this project.
+# BOM
+
+| Materials | Quantity |
+| :--- | :--- |
+| Arduino UNO R3 | 1 |
+| Breadboard | 1 |
+| Jumper Wires | a lot |
+| LCD1602 16-pin bare | 1 |
+| 10K Potentiometer | 1 |
+| DHT11 Module | 1 |
+| MQ-135 Module | 1 |
+| Active Buzzer | 1 |
+| 220 Ohm Resistor | 1 |
